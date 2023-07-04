@@ -7,4 +7,4 @@ You can import a JSON file to your MongoDB community server using the following 
 mongoimport --collection=[Collection Name] --db=[Database Name] --type=json --jsonArray [FileName.json]
 
 Example: 
-`mongoimport --collection=Example --db=firstDatabase --type=json --jsonArray example.json`
+`mongoimport --collection=Recipes --db=firstDatabase --type=json --jsonArray example.json`
