@@ -8,5 +8,5 @@ You can import a JSON file to your MongoDB community server using the following 
 
 Example: 
 
--- macOS: `mongoimport --collection=Recipes --db=firstDatabase --type=json --jsonArray example.json`
--- Windows: `mongoimport.exe --collection=Example --db=firstDatabase --type=json --jsonArray example.json`
+- macOS: `mongoimport --collection=Recipes --db=firstDatabase --type=json --jsonArray example.json`
+- Windows: `mongoimport.exe --collection=Example --db=firstDatabase --type=json --jsonArray example.json`
